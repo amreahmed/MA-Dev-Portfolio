@@ -25,7 +25,7 @@ const Hero = () => {
             words="Crafting Code into Dynamic Digital Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl ">
-            Hi, We&apos;re MA Dev, a Fullstack Development Team
+            Hi, We&apos;re MA Dev group, a Fullstack Development Team
           </p>
           <a href="#about">
             <MagicButton title="Show our work!" icon={<FaLocationArrow />} position="right" />
